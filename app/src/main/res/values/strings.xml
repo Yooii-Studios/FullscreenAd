@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YooiiFullscreenAdProj</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_morning_kit_ad">MorningKitAdActivity</string>
+    <string name="title_activity_news_kit_ad">NewsKitAdActivity</string>
+</resources>
