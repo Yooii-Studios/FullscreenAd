@@ -2,10 +2,7 @@
                 xmlns:tools="http://schemas.android.com/tools"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:paddingLeft="@dimen/activity_horizontal_margin"
-                android:paddingRight="@dimen/activity_horizontal_margin"
-                android:paddingTop="@dimen/activity_vertical_margin"
-                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:padding="16dp"
                 tools:context=".MainActivity"
                 tools:ignore="HardcodedText">
 
@@ -24,6 +21,24 @@
         android:layout_marginTop="15dp"
         android:text="Show Morning Kit Fullscreen Ad"
         android:onClick="onMorningKitAdButtonClick"/>
+
+    <Button
+        android:id="@+id/reset_launch_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ad_morningkit_button"
+        android:layout_marginTop="15dp"
+        android:text="Rest launch count"
+        android:onClick="onResetLaunchCount"/>
+
+    <Button
+        android:id="@+id/increase_launch_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reset_launch_count"
+        android:layout_marginTop="15dp"
+        android:text="Increase launch count"
+        android:onClick="onIncreaseLaunchCount"/>
 
     <TextView
         android:id="@+id/policy_textview"
@@ -50,5 +65,5 @@
         android:layout_marginLeft="5dp"
         android:layout_marginStart="5dp"
         android:layout_marginBottom="10dp"
-        android:text="15"/>
+        android:text="0"/>
 </RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="accent_color" type="color">#299fee</item>
+    <item name="text_color" type="color">#797979</item>
+</resources>
