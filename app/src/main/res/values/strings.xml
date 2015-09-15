@@ -1,8 +1,8 @@
 <resources>
-    <string name="morning_kit_name">Morning Kit</string>
-    <string name="morning_kit_description">Everything you need in the morning at a glance!</string>
-    <string name="news_kit_name">News Kit</string>
-    <string name="news_kit_description">Description</string>
+    <string name="morningkit_name">Morning Kit</string>
+    <string name="morningkit_description">Everything you need in the morning at a glance!</string>
+    <string name="newskit_name">News Kit</string>
+    <string name="newskit_description">An innovative, beautiful way to read the news.</string>
     <string name="no_thanks">No Thanks</string>
     <string name="try_it_for_free">Try it for free</string>
 </resources>

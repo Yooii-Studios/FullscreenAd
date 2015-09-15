@@ -16,20 +16,20 @@ public class GooglePlayUtils {
     public static int REQ_REVIEW_APP = 4444;
 
     public static void openMorningKitAtGooglePlay(Context context) {
-        Uri uri = Uri.parse(getMorningKitLink(context));
+        Uri uri = Uri.parse(getMorningKitLink());
         openGooglePlay(context, uri);
     }
 
     public static void openNewsKitAtGooglePlay(Context context) {
-        Uri uri = Uri.parse(getNewsKitLink(context));
+        Uri uri = Uri.parse(getNewsKitLink());
         openGooglePlay(context, uri);
     }
 
-    public static String getMorningKitLink(Context context) {
+    public static String getMorningKitLink() {
         return "market://details?id=com.yooiistudios.morningkit";
     }
 
-    public static String getNewsKitLink(Context context) {
+    public static String getNewsKitLink() {
         return "market://details?id=com.yooiistudios.newskit";
     }
 

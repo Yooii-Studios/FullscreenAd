@@ -40,7 +40,7 @@
             android:layout_marginStart="@dimen/base_padding"
             android:layout_marginTop="@dimen/title_margin_top"
             android:includeFontPadding="false"
-            android:text="@string/morning_kit_name"
+            android:text="@string/morningkit_name"
             android:textSize="@dimen/text_size_headline_material"
             android:textColor="@color/text_color"/>
 
@@ -53,7 +53,7 @@
             android:layout_below="@id/morningkit_ad_title_textview"
             android:layout_marginTop="@dimen/desc_margin_top"
             android:includeFontPadding="false"
-            android:text="@string/morning_kit_description"
+            android:text="@string/morningkit_description"
             android:textSize="@dimen/text_size_caption_material"
             android:textColor="@color/text_color"/>
     </RelativeLayout>
