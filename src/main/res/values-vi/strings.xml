@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">Morning Kit (Alarm &amp; Panels)</string>
+    <string name="morningkit_description">Tất cả mọi thứ bạn cần vào buổi sáng!</string>
+    <string name="newskit_name">News Kit</string>
+    <string name="newskit_description">Ứng dụng tin tức đẹp nhất từ trước đến nay và một cách đọc báo sáng tạo.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>

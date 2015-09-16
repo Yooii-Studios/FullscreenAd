@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">Morning Kit (Alarm &amp; Panels)</string>
+    <string name="morningkit_description">Hemat waktu dan memulai hari Anda lebih cerdas dengan Morning Kit!</string>
+    <string name="newskit_name">News Kit</string>
+    <string name="newskit_description">An innovative, beautiful way to read the news.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">早安工具 （鬧鐘＋天氣+新聞+行程+日曆+相框)</string>
+    <string name="morningkit_description">每天早上所有資訊一覽無遺- 早安工具(Morning Kit)！</string>
+    <string name="newskit_name">News Kit / 新聞匯</string>
+    <string name="newskit_description">最好看、最創新的新聞軟體。</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>

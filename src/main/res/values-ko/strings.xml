@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">모닝키트 (알람+날씨+일정+뉴스+사진 등)</string>
+    <string name="morningkit_description">아침에 필요한 모든 정보를 한 눈에 - 모닝키트(Morning Kit)!</string>
+    <string name="newskit_name">News Kit / 뉴스 키트</string>
+    <string name="newskit_description">가장 아름다운 뉴스 앱 그리고 뉴스를 보는 혁신적인 방법!</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>

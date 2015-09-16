@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">Morgen Ausrüstung</string>
+    <string name="morningkit_description">Alle Informationen die du benötigst auf einem Display</string>
+    <string name="newskit_name">News Kit</string>
+    <string name="newskit_description">Die schönste Nachrichten-App überhaupt und ein Innovativer Weg, Zeitung zu lesen</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">モーニングキット 【ライフサポートアプリ】</string>
+    <string name="morningkit_description">朝に必要な情報が一目で確認できるライフサポートアプリ！</string>
+    <string name="newskit_name">News Kit / ニュースキット</string>
+    <string name="newskit_description">選ばれたニュースリストと主要ニュースがあなたの手元に。 国内のニュースからリーチしにくい海外のニュース記事へのリーチが簡単になりました！</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>
