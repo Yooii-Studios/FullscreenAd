@@ -1,0 +1,8 @@
+<resources>
+    <string name="morningkit_name">Kit Mañana (Alarma + Panel)</string>
+    <string name="morningkit_description">Toda la información que usted necesita en una sola pantalla - Kit de la mañana!</string>
+    <string name="newskit_name">News Kit</string>
+    <string name="newskit_description">La más bella app para novedades y und camino innovativo para leer diario.</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="try_it_for_free">Try it for free</string>
+</resources>
