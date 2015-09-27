@@ -80,7 +80,7 @@
             android:clickable="true"
             android:onClick="onNoThanksButtonClick"/>
 
-        <android.support.v4.widget.Space
+        <View
             android:layout_width="@dimen/base_padding"
             android:layout_height="match_parent"/>
 
