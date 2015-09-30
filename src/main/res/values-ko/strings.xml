@@ -3,6 +3,6 @@
     <string name="morningkit_description">아침에 필요한 모든 정보를 한 눈에 - 모닝키트(Morning Kit)!</string>
     <string name="newskit_name">News Kit / 뉴스 키트</string>
     <string name="newskit_description">가장 아름다운 뉴스 앱 그리고 뉴스를 보는 혁신적인 방법!</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="try_it_for_free">Try it for free</string>
+    <string name="no_thanks">닫기</string>
+    <string name="try_it_for_free">무료로 받기</string>
 </resources>

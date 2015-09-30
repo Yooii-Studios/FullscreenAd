@@ -3,6 +3,6 @@
     <string name="morningkit_description">每天早上所有资讯一览无余 - 早安工具(Morning Kit)！</string>
     <string name="newskit_name">News Kit / 新闻汇</string>
     <string name="newskit_description">最好看最创新的新闻软件。</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="try_it_for_free">Try it for free</string>
+    <string name="no_thanks">暂时不用</string>
+    <string name="try_it_for_free">免费试用</string>
 </resources>
