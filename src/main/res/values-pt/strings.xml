@@ -3,6 +3,6 @@
     <string name="morningkit_description">Tudo que você precisa ao acordar em apenas um olhar!</string>
     <string name="newskit_name">News Kit</string>
     <string name="newskit_description">Uma forma bonita e inovadora de ler as notícias.</string>
-    <string name="no_thanks">No Thanks</string>
-    <string name="try_it_for_free">Try it for free</string>
+    <string name="no_thanks">Não, obrigado</string>
+    <string name="try_it_for_free">Experimente de graça</string>
 </resources>
